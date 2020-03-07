@@ -4,16 +4,26 @@
 @import "{{ site.theme }}";
 
 .wrapper {
+  width: 90%;
+  
   .deco {
     background-image: url('https://media-exp1.licdn.com/dms/image/C4E16AQEYZDiXkfEHug/profile-displaybackgroundimage-shrink_200_800/0?e=1588809600&v=beta&t=1PkaAgYKhZW84z3Ed8Ztj9RnGjQsYvFJ8r-sElZyAk4');
-    ackground-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
+    height: 175px;
   }
   .avatar {
     position: absolute;
+    top: 123px;
+    left: 50px;
+    
+    img {
+      border-radius: 50%;
+      border: 5px solid #fff;
+    }
   }
   .details {
+    margin-top: 64px;
   }
 }
 
