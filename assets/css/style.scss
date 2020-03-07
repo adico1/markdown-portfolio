@@ -6,6 +6,9 @@
 .wrapper {
   width: 90%;
   
+  HEADER {
+    padding: 5px 5px;
+  }
   .deco {
     background-image: url('https://media-exp1.licdn.com/dms/image/C4E16AQEYZDiXkfEHug/profile-displaybackgroundimage-shrink_200_800/0?e=1588809600&v=beta&t=1PkaAgYKhZW84z3Ed8Ztj9RnGjQsYvFJ8r-sElZyAk4');
     background-repeat: no-repeat;
@@ -23,7 +26,8 @@
     }
   }
   .details {
-    margin-top: 64px;
+    margin-top: 40px;
+    margin-left: 180px;
   }
 }
 
