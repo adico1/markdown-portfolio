@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Blog](http://adico.tech)
+[Github](http://github.com/adico1)
