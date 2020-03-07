@@ -5,8 +5,8 @@ Books
 
 
 Resturants
-* Haganav
-* Ezra
-* Kikar Ha'eer
+* Haganav :heart:
+* Ezra :sparkles:
+* Kikar Ha'eer :+1:
 - Rak bashar
 - Keter Hamizrah
