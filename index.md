@@ -8,7 +8,7 @@ layout: default
 <br>
 
 <div class="content-block" markdown="1">
-{% include 02-image.md %}
+{% include 02-work.md %}
 </div>
 
 <br>
