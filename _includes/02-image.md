@@ -1,6 +1,6 @@
 # Workforce
 ## Software Engineer @ Somoto 2015 - 2019
-<img style="float: left;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHLql--gedu0g/company-logo_100_100/0?e=1591833600&v=beta&t=o8wh5wK5Smm_OkZ_XLAaHxFQGxtinlZgTlENUXcu5K4" />
+<img style="float: right;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHLql--gedu0g/company-logo_100_100/0?e=1591833600&v=beta&t=o8wh5wK5Smm_OkZ_XLAaHxFQGxtinlZgTlENUXcu5K4" />
 Senior Full-Stack, Software Developer, Architect, Leader<br>
 Employment Duration: 4 yrs 2 mos<br>
 <br>
