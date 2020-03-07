@@ -1,3 +1,3 @@
-#About
+# About
 <br>
 Experienced full-stack developer with over 20 years hands on development. Skilled in, multi language, full-stack environments including .Net, PHP, nodejs/js, JAVA technologies. Committed & quickly adapting into projects and team, talented, quick learner & experience over multitude fields, technologies and architectures. Inventing, researching, architect, and leadership is in my DNA. Highly motivated and proven experience in leading development teams and projects for large software web-based systems. Skilled & knowledgeable in networking, server administration (win & nix) & wide variety of libraries, open source technologies and development environments. 
